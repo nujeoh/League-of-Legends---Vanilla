@@ -1,2 +1,1 @@
-# League of Legends
-## Champion Selection Window Test
+### League of Legends Champion Selection Web Test
